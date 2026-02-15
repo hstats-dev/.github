@@ -1,1 +1,38 @@
-# To be updated
+# 🛡️ HStats.dev (Hytale Stats)
+
+**HStats** is a lightweight, real-time analytics platform specifically designed for the **Hytale** modding community. Inspired by bStats for Minecraft, HStats allows mod developers to visualize their impact with live server counts, player metrics, and system-level data.
+
+[**Visit HStats.dev**](https://hstats.dev) | [**View Documentation**](https://hstats.dev/docs)
+
+---
+
+## 📂 Our Repositories
+
+### 💻 Frontend (Private for the moment)
+The HStats web dashboard built for speed and clarity. This handles user registration, mod management, and the rendering of analytics charts.
+* **Status:** Private / Internal Development
+
+### ⚙️ Backend (Private for the moment)
+The engine under the hood. The backend API handles incoming pings from Hytale servers, processes data anonymously, and serves the analytics API that powers the frontend.
+* **Status:** Private / Internal Development
+
+### 🛠️ [ExamplePlugin](https://github.com/HStats/ExamplePlugin)
+The official reference implementation for Hytale mod developers. This repository contains the `HStats.java` class and a boilerplate setup to show you how to integrate analytics into your mod.
+* **Language:** Java
+* **Status:** Public / Reference Implementation
+
+---
+
+## 🔒 Privacy
+HStats does **not** track player IPs, usernames, or sensitive data. We only collect:
+* Operating System & Java Version
+* General Geographic Region (Country level)
+* Active Server/Player Counts
+
+---
+
+## 🤝 Getting Involved
+If you are a Hytale developer and want to start tracking your mod:
+1.  Create an account at [HStats.dev](https://hstats.dev).
+2.  Register your mod and grab your **UUID**.
+3.  Check out the **ExamplePlugin** repository to get started.
