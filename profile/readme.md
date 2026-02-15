@@ -1,4 +1,4 @@
-# 🛡️ HStats.dev (Hytale Stats)
+# 🛡️ HStats.dev (Hytale Mod Stats)
 
 **HStats** is a lightweight, real-time analytics platform specifically designed for the **Hytale** modding community. Inspired by bStats for Minecraft, HStats allows mod developers to visualize their impact with live server counts, player metrics, and system-level data.
 
