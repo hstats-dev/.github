@@ -8,15 +8,15 @@
 
 ## 📂 Our Repositories
 
-### 💻 HStats-Frontend (Private for the moment)
+### 💻 [HStats-Frontend](https://github.com/hstats-dev/HStatsFrontend)
 The HStats web dashboard built for speed and clarity. This handles user registration, mod management, and the rendering of analytics charts.
-* **Status:** Private / Internal Development
+* **Status:** Public
 
-### ⚙️ HStats-Backend (Private for the moment)
+### ⚙️ HStats-Backend (Private for the moment, will be public soon)
 The engine under the hood. The backend API handles incoming pings from Hytale servers, processes data anonymously, and serves the analytics API that powers the frontend.
 * **Status:** Private / Internal Development
 
-### 🛠️ [HStatsExamplePlugin]([https://github.com/HStats/ExamplePlugin](https://github.com/hstats-dev/HStatsExamplePlugin))
+### 🛠️ [HStatsExamplePlugin](https://github.com/hstats-dev/HStatsExamplePlugin)
 The official reference implementation for Hytale mod developers. This repository contains the `HStats.java` class and a boilerplate setup to show you how to integrate analytics into your mod.
 * **Language:** Java
 * **Status:** Public / Reference Implementation
