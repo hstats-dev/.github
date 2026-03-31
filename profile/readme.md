@@ -4,6 +4,8 @@
 
 [**Visit HStats.dev**](https://hstats.dev) | [**View Documentation**](https://hstats.dev/docs)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U41WYL7F)
+
 ---
 
 ## 📂 Our Repositories
